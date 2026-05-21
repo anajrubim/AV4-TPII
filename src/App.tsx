@@ -87,7 +87,7 @@ export default function App() {
             </li>
           ))}
         </ul>
-        <div className='Não Aguento mais AV'>
+        <div className='verdade'>
           NÃO AGUENTO MAIS AV
         </div>
         <div className="sidebar-stats">
